@@ -1,0 +1,2 @@
+AutoMan: An automated bioinformatics solution for primary analysis of next-generation sequencing data
+
